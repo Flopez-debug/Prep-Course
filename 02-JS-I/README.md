@@ -320,7 +320,7 @@ function puedeManejar(edad) {
     }
 
     return false;
-}
+}>
 
 puedeManejar(22); // true
 ```
