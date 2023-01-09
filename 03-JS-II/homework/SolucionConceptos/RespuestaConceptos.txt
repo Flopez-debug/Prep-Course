@@ -1,0 +1,26 @@
+1a- El ciclo "for" en JavaScript es una declaración sobre una instrucción que yo quiero ejecutar y claramenmte cuenta 
+con una estructura que aporta al entendimiento de mi instrucción, haz de cuenta que tu le quieres hacer entender a
+tu perro los siguinte basado en patrametros que seran interpretados como variables:
+
+variables: perro
+Comida
+popo
+
+for(let perro; popo >= caneca; popo++){
+    return avisar;
+}
+
+que cada ves que haga popo y la caneca esté llena me avise para que no se acumule el popo y con eso evitamos 
+enfermedades y demas 
+
+1b- && - Tecnicamente debes entender que es un operador lógico que le permitirá a la aplicación actuar dependiendo
+a unas previas validaciones que debe hacerse, digamos que quieres salir a comer algo o salir con tus amigos . En ese 
+caso te haces dos preguntas; quieres comer y(&&) salir con tus amigos? 
+si es lo que quieres tomaras las dos opciones al tiempo.
+
+1c-|| - Continuando con el ejemplo anterior, para el entendimiento de este operador puedes tomar cualquiera 
+de la desición que esté disponible, es decir si tus amigo no están entonces saldras solo a comer.
+
+1d- ! - Para el entendimiento del operador que resulta ser una negación al resultado inicialmente obtenido o 
+siguiendo el ejemplo; que hayas tomado una desición y por alguna influencia terminas cambiandola, digamos que 
+tu desición fue solo comer y alguno de tus amigos te hace cambiar de opinión y terminas haciendo las dos.
