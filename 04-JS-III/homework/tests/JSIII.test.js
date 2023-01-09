@@ -22,14 +22,14 @@ const {
   continueStatement
 } = require('../homework');
 
-describe('devolverPrimerElemento(arr)', function() {
+describe.only('devolverPrimerElemento(arr)', function() {
   it('should return the first item in the array', function() {
     expect(devolverPrimerElemento([10, 10, 16, 12])).toBe(10);
     expect(devolverPrimerElemento([97, 100, 80, 55, 72, 94])).toBe(97);
   });
 });
 
-describe('devolverUltimoElemento(arr)', function() {
+describe.only('devolverUltimoElemento(arr)', function() {
   it('should return the last item in the array', function() {
     expect(devolverUltimoElemento([10, 10, 16, 12])).toBe(12);
     expect(devolverUltimoElemento([97, 100, 80, 55, 72, 94])).toBe(94);
@@ -37,7 +37,7 @@ describe('devolverUltimoElemento(arr)', function() {
   });
 });
 
-describe('obtenerLargoDelArray(arr)', function() {
+describe.only('obtenerLargoDelArray(arr)', function() {
   it('should return the length of the array', function() {
     expect(obtenerLargoDelArray([10, 10, 16, 12])).toBe(4);
     expect(obtenerLargoDelArray([97, 100, 80, 55, 72, 94])).toBe(6);
@@ -45,7 +45,7 @@ describe('obtenerLargoDelArray(arr)', function() {
   });
 });
 
-describe('incrementarPorUno(arr)', function() {
+describe.only('incrementarPorUno(arr)', function() {
   it('should return the array with each value incremented by one', function() {
     expect(incrementarPorUno([10, 10, 16, 12])).toEqual([11, 11, 17, 13]);
     expect(incrementarPorUno([97, 100, 80, 55, 72, 94])).toEqual([98, 101, 81, 56, 73, 95]);

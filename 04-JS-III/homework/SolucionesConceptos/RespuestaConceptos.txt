@@ -1,0 +1,5 @@
+Arrays - Para que tu me entiendas el concepto, te lo explicaré que los Arrays son como el tablero de un ajedresz o
+damas chinas que tienen una ubicación en dicho tablero y para su identificación se direccionana como el juego 
+de destruir naves que se ubican en el tablero anteriormente mencionados. Ahora llevandolo a tipo de dato "Array" 
+que te permitira de esa forma guiardar cualquier tipo de dato , hasta funciones para qyue puedan ser utilizadas 
+en cualquier momento.
