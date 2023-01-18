@@ -1,0 +1,21 @@
+1.1- Los objetos vienen siendo una caja que almacena información representativa de la cajita que la define como "unica",
+entre las demas cajas. Es decir que la cajita puede representar una persona, o un animal, o cualquier cosa pero que
+y dentro de ella voy a encontrar información de dicha persona o animal o cualquier cosa, y yo conociendo esa 
+información puedo manipularla.
+
+1.2- Las Propiedades son los que me permiten conocer la clasificación del valor de la caracteristica de la cajita 
+o de la persona...etc. Es decir que la caja va a representar un planeta, en ese caso las propiedades son las caracteristicas
+del planeta que me permiten medirlo con el valor que acompaña la caracteristica. Propiedad prodría ser el peso del planeta,
+su composición, su peso.
+
+1.3- los Métodos se comportarián como una inyección de información a las propiedades las cuales me va a permitir 
+trabajar con la información que se almacene allí cuando sea consultada.
+
+1.4- Los bucle for ...in son aquellas operaciones que me permitira conocer las caracterisiticas y valores del objeto o 
+del planeta como ejemplo con el que se ha venido comparando y que cumple el papel de "objeto". Dicho bucle de 
+una forma de lista me mostrará el contenido del objeto o "caja"
+
+1.5- La Notación de puntos vs notación de corchetes pueden actuar de una forma similar a nivel de funcionalidad pero su forma 
+de escribir varía, ya que para la notación de punto yo utilizó un indicador fijo miestras que con los corchetes puede ser
+Los corchetes se utilizan cuando hay espacios o que no sepamos como se llama 
+
